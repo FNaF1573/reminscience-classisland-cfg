@@ -1,4 +1,16 @@
 {
-    "ServiceKind": 0,
-    "OrganizationName": "Reminscience Library"
+    "ServerKind": 0,
+    "OrganizationName": "Reminscience Library",
+    "ClassPlanSource": {
+        "Value": "https://raw.githubusercontent.com/FNaF1573/reminscience-classisland-cfg/master/classplans.json",
+        "Version": 1
+    },
+    "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/FNaF1573/reminscience-classisland-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/FNaF1573/reminscience-classisland-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
