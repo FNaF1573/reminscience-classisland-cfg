@@ -12,5 +12,9 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/FNaF1573/reminscience-classisland-cfg/master/subjects.json",
         "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/FNaF1573/reminscience-classisland-cfg/master/policy.json",
+        "Version": 1
     }
 }
